@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Devel-StackBlech
-version:            0.05
+version:            0.06
 abstract:           Dumps your stack, all of it, somewhere
 author:
     - Josh ben Jore <jjore@cpan.org>
@@ -18,7 +18,7 @@ requires:
     ExtUtils::CBuilder:  0
     File::Basename:      0
     IPC::Run:            0
-    perl:                5.007003
+    perl:                5.005
     Sub::Exporter:       0
     Test::More:          0
 resources:
